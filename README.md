@@ -10,7 +10,6 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yazoo555&style=flat-square&color=green" alt="Profile views"/>
 </div>
 
 ## 💫 About Me
@@ -68,11 +67,6 @@
   </p>
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazoo555&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-</div>
 
 ## 📂 Projects
 
