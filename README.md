@@ -14,7 +14,6 @@
 
 ## 💫 About Me
 
-<img align="right" width="300" src="https://raw.githubusercontent.com/Yazoo555/Yazoo555/main/assets/qa-animation.gif" />
 
 - 🔍 I specialize in **Web & Mobile Testing**, API automation, and secure CI/CD pipelines
 - 🔧 Tools of the trade: Postman, Appium, Jenkins, Selenium, JIRA, Git, Burp Suite
