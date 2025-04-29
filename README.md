@@ -12,7 +12,6 @@
   <a href="mailto:yazusth@gmail.com"><img src="https://img.shields.io/badge/Email-yazusth@gmail.com-red?style=for-the-badge&logo=gmail"></a>
   <a href="https://www.linkedin.com/in/yajju-chansi-qa/"><img src="https://img.shields.io/badge/LinkedIn-Yajju%20Chansi-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/Yazoo555"><img src="https://img.shields.io/github/followers/Yazoo555?label=Follow&style=for-the-badge&logo=github"></a>
-  <a href="/YajjuChansiResume.pdf"><img src="https://img.shields.io/badge/Resume-View%20Now-green?style=for-the-badge&logo=read-the-docs"></a>
 </div>
 
 <div align="center">
