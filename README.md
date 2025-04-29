@@ -28,7 +28,7 @@
 ## 💼 Experience Snapshot
 
 <div align="center">
-  <img src="https://img.shields.io/badge/QA%20Engineer-Ambition%20Guru-brightgreen?style=for-the-badge&logo=checkmarx" />
+  <img src="https://giffiles.alphacoders.com/209/209661.gif" />
 </div>
 
 - 🚀 Tested Flutter apps, APIs, real-time classes, payment gateways, and chat systems
@@ -72,7 +72,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yazoo555&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazoo555&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 ## 📂 Projects
