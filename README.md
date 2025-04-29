@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ee44e,100:38b000&height=200&section=header&text=Yajju%20Chansi&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=QA%20Engineer%20|%20API%20%26%20Mobile%20Automation%20Expert&descAlignY=51&descAlign=62" width="100%" />
+  <img src="https://images2.alphacoders.com/130/1301602.png" width="50%" />
 </div>
 
 <p align="center">
