@@ -28,7 +28,7 @@
 ## 💼 Experience Snapshot
 
 <div align="center">
-  <img src="https://giffiles.alphacoders.com/209/209661.gif" />
+  <img src="https://giffiles.alphacoders.com/209/209661.gif" width='25%' />
 </div>
 
 - 🚀 Tested Flutter apps, APIs, real-time classes, payment gateways, and chat systems
@@ -137,13 +137,3 @@ Here are some of my key projects:
 **Dice_Roller** - A simple dice rolling application demonstrating UI implementation and random number generation.
 
 **MedsHub** - Final year project built with Java, providing a comprehensive medical resource management system.
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Yazoo555&theme=react-dark" alt="Contribution Graph" width="100%" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4ee44e,100:38b000&height=120&section=footer" width="100%" />
-</div>
