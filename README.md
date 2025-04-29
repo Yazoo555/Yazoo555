@@ -15,20 +15,15 @@
 
 ## 💫 About Me
 
-<div class="about-section" style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
-  <div style="flex: 1; min-width: 300px;">
-    <ul>
-      <li>🔍 I specialize in <strong>Web & Mobile Testing</strong>, API automation, and secure CI/CD pipelines</li>
-      <li>🔧 Tools of the trade: Postman, Appium, Jenkins, Selenium, JIRA, Git, Burp Suite</li>
-      <li>🌐 I've tested real-time systems (WebRTC), payment gateways (eSewa, Khalti), and eLearning platforms</li>
-      <li>🧪 Comfortable with <strong>Agile, Scrum</strong>, test documentation, black-box, regression, and exploratory testing</li>
-      <li>🛡️ Recently diving deep into <strong>security testing</strong> to make apps bulletproof</li>
-    </ul>
-  </div>
-  <div style="flex: 0 0 auto; max-width: 100%;">
-    <img width="300" src="https://raw.githubusercontent.com/Yazoo555/Yazoo555/main/assets/qa-animation.gif" />
-  </div>
-</div>
+<img align="right" width="300" src="https://raw.githubusercontent.com/Yazoo555/Yazoo555/main/assets/qa-animation.gif" />
+
+- 🔍 I specialize in **Web & Mobile Testing**, API automation, and secure CI/CD pipelines
+- 🔧 Tools of the trade: Postman, Appium, Jenkins, Selenium, JIRA, Git, Burp Suite
+- 🌐 I've tested real-time systems (WebRTC), payment gateways (eSewa, Khalti), and eLearning platforms
+- 🧪 Comfortable with **Agile, Scrum**, test documentation, black-box, regression, and exploratory testing
+- 🛡️ Recently diving deep into **security testing** to make apps bulletproof
+
+<br clear="right"/>
 
 ## 💼 Experience Snapshot
 
@@ -45,7 +40,7 @@
 
 <div align="center">
   <h3>Languages & Tools</h3>
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <p>
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
@@ -53,7 +48,7 @@
   </p>
   
   <h3>Testing Tools</h3>
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <p>
     <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
     <img src="https://img.shields.io/badge/Appium-663399?style=for-the-badge&logo=appium&logoColor=white" />
     <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" />
@@ -63,7 +58,7 @@
   </p>
   
   <h3>CI/CD & Platforms</h3>
-  <p style="display: flex; flex-wrap: wrap; justify-content: center; gap: 5px;">
+  <p>
     <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
     <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
@@ -75,9 +70,9 @@
 
 ## 📊 GitHub Stats
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yazoo555&show_icons=true&theme=radical" alt="GitHub Stats" style="max-width: 100%; height: auto;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazoo555&theme=radical" alt="GitHub Streak" style="max-width: 100%; height: auto;" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yazoo555&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yazoo555&theme=radical" alt="GitHub Streak" width="48%" />
 </div>
 
 ## 📂 Projects
@@ -86,12 +81,12 @@ Here are some of my key projects:
 
 ### 🔄 Automation Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Yazoo555/AG-Automation" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" style="width: 100%;" />
+<div align="center">
+  <a href="https://github.com/Yazoo555/AG-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" width="48%" />
   </a>
-  <a href="https://github.com/Yazoo555/AG-app-Automation" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" style="width: 100%;" />
+  <a href="https://github.com/Yazoo555/AG-app-Automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="48%" />
   </a>
 </div>
 
@@ -101,12 +96,12 @@ Here are some of my key projects:
 
 ### 🧪 Testing Frameworks
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Yazoo555/cypress_auto" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=cypress_auto&theme=dark" style="width: 100%;" />
+<div align="center">
+  <a href="https://github.com/Yazoo555/cypress_auto">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=cypress_auto&theme=dark" width="48%" />
   </a>
-  <a href="https://github.com/Yazoo555/AGAdmin" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AGAdmin&theme=dark" style="width: 100%;" />
+  <a href="https://github.com/Yazoo555/AGAdmin">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AGAdmin&theme=dark" width="48%" />
   </a>
 </div>
 
@@ -116,12 +111,12 @@ Here are some of my key projects:
 
 ### 📱 Flutter Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Yazoo555/flutter_sharedp" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=flutter_sharedp&theme=dark" style="width: 100%;" />
+<div align="center">
+  <a href="https://github.com/Yazoo555/flutter_sharedp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=flutter_sharedp&theme=dark" width="48%" />
   </a>
-  <a href="https://github.com/Yazoo555/-flutter_intern" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=-flutter_intern&theme=dark" style="width: 100%;" />
+  <a href="https://github.com/Yazoo555/-flutter_intern">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=-flutter_intern&theme=dark" width="48%" />
   </a>
 </div>
 
@@ -131,12 +126,12 @@ Here are some of my key projects:
 
 ### 🎲 Other Projects
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Yazoo555/Dice_Roller" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=Dice_Roller&theme=dark" style="width: 100%;" />
+<div align="center">
+  <a href="https://github.com/Yazoo555/Dice_Roller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=Dice_Roller&theme=dark" width="48%" />
   </a>
-  <a href="https://github.com/Yazoo555/MedsHub" style="flex: 1 1 300px; max-width: 100%;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=MedsHub&theme=dark" style="width: 100%;" />
+  <a href="https://github.com/Yazoo555/MedsHub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=MedsHub&theme=dark" width="48%" />
   </a>
 </div>
 
