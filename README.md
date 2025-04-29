@@ -81,14 +81,21 @@ Here are some of my key projects:
 ### 🔄 Automation Projects
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Yazoo555/AG-Automation" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" width="100%" />
-    </a>
-    <a href="https://github.com/Yazoo555/AG-app-Automation" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="100%" />
-    </a>
-  </div>
+  <!-- Improved project card layout for both laptop and mobile -->
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/AG-Automation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/AG-app-Automation">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 **AG-Automation** - Core automation framework for Ambition Guru platform testing, featuring API test suites and CI/CD integration.
@@ -98,14 +105,20 @@ Here are some of my key projects:
 ### 🧪 Testing Frameworks
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Yazoo555/cypress_auto" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=cypress_auto&theme=dark" width="100%" />
-    </a>
-    <a href="https://github.com/Yazoo555/AGAdmin" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AGAdmin&theme=dark" width="100%" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/cypress_auto">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=cypress_auto&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/AGAdmin">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AGAdmin&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 **cypress_auto** - End-to-end testing framework using Cypress for web applications, featuring custom commands and reporting.
@@ -115,14 +128,20 @@ Here are some of my key projects:
 ### 📱 Flutter Projects
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Yazoo555/flutter_sharedp" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=flutter_sharedp&theme=dark" width="100%" />
-    </a>
-    <a href="https://github.com/Yazoo555/-flutter_intern" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=-flutter_intern&theme=dark" width="100%" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/flutter_sharedp">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=flutter_sharedp&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/-flutter_intern">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=-flutter_intern&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 **flutter_sharedp** - Flutter shared preferences implementation for persistent storage in mobile applications.
@@ -132,14 +151,20 @@ Here are some of my key projects:
 ### 🎲 Other Projects
 
 <div align="center">
-  <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-    <a href="https://github.com/Yazoo555/Dice_Roller" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=Dice_Roller&theme=dark" width="100%" />
-    </a>
-    <a href="https://github.com/Yazoo555/MedsHub" style="flex: 1 1 300px; min-width: 250px; max-width: 100%;">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=MedsHub&theme=dark" width="100%" />
-    </a>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/Dice_Roller">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=Dice_Roller&theme=dark" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/Yazoo555/MedsHub">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=MedsHub&theme=dark" width="100%" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 **Dice_Roller** - A simple dice rolling application demonstrating UI implementation and random number generation.
