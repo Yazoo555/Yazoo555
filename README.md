@@ -147,6 +147,8 @@ Here are some of my key projects:
 
 **-flutter_intern** - Collection of Flutter tasks and projects completed during internship, showcasing mobile development skills.
 
+<!--
+
 ### 🎲 Other Projects
 
 <div align="center">
@@ -167,5 +169,8 @@ Here are some of my key projects:
 </div>
 
 **Dice_Roller** - A simple dice rolling application demonstrating UI implementation and random number generation.
+
+
+--!>
 
 **MedsHub** - Final year project built with Java, providing a comprehensive medical resource management system.
