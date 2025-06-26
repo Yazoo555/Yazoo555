@@ -82,7 +82,7 @@ Here are some of my key projects:
 <div align="center">
   <!-- Second project card layout -->
   <a href="https://github.com/Yazoo555/AG-app-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="30%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="40%" />
   </a>
 </div>
 
