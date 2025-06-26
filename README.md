@@ -83,10 +83,10 @@ Here are some of my key projects:
   <!-- Improved project card layout for both laptop and mobile -->
   <table>
     <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/Yazoo555/AG-Automation">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" width="100%" />
-        </a>
+     // <td align="center" width="50%">
+    //    <a href="https://github.com/Yazoo555/AG-Automation">
+     //     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-Automation&theme=dark" width="100%" />
+    //    </a>
       </td>
       <td align="center" width="50%">
         <a href="https://github.com/Yazoo555/AG-app-Automation">
