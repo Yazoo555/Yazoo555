@@ -135,29 +135,5 @@ Here are some of my key projects:
 
 **-flutter_intern** - Collection of Flutter tasks and projects completed during internship, showcasing mobile development skills.
 
-<!--
-
-### 🎲 Other Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/Yazoo555/Dice_Roller">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=Dice_Roller&theme=dark" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/Yazoo555/MedsHub">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=MedsHub&theme=dark" width="100%" />
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-**Dice_Roller** - A simple dice rolling application demonstrating UI implementation and random number generation.
-
-
---!>
+ 
 
