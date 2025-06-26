@@ -161,4 +161,3 @@ Here are some of my key projects:
 
 --!>
 
-**MedsHub** - Final year project built with Java, providing a comprehensive medical resource management system.
