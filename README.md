@@ -87,8 +87,6 @@ Here are some of my key projects:
 </div>
 
 
-// **AG-Automation** - Core automation framework for Ambition Guru platform testing, featuring API test suites and CI/CD integration.
-
 **AG-app-Automation** - Mobile app automation suite using Appium and Python to test the AG mobile application across various devices.
 
 ### 🧪 Testing Frameworks
