@@ -82,12 +82,12 @@ Here are some of my key projects:
 <div align="center">
   <!-- Second project card layout -->
   <a href="https://github.com/Yazoo555/AG-app-Automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="100%" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yazoo555&repo=AG-app-Automation&theme=dark" width="60%" />
   </a>
 </div>
 
 
-**AG-Automation** - Core automation framework for Ambition Guru platform testing, featuring API test suites and CI/CD integration.
+// **AG-Automation** - Core automation framework for Ambition Guru platform testing, featuring API test suites and CI/CD integration.
 
 **AG-app-Automation** - Mobile app automation suite using Appium and Python to test the AG mobile application across various devices.
 
